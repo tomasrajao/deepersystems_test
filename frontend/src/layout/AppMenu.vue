@@ -14,7 +14,7 @@ const model = ref([
             {
                 label: 'View Test Homepage',
                 icon: 'pi pi-fw pi-github',
-                url: 'https://github.com/tomasrajao/deepersystems-task',
+                url: 'https://github.com/tomasrajao/deepersystems-test',
                 target: '_blank'
             }
         ]
