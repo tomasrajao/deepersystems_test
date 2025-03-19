@@ -43,9 +43,9 @@ npm run dev
 
 ### Available endpoints
 
-GET localhost:5000/users - List users
-POST localhost:5000/users - Create user
-GET localhost:5000/users/<id> - Retrieve a specific user
-PUT localhost:5000/users/<id> - Update a user
+GET localhost:5000/users - List users \
+POST localhost:5000/users - Create user\
+GET localhost:5000/users/<id> - Retrieve a specific user\
+PUT localhost:5000/users/<id> - Update a user\
 DELETE localhost:5000/users/<id> - Delete a user
 
